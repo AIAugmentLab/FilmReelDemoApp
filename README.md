@@ -20,9 +20,9 @@ iOS 16 UIKit demo of a dual-column "film reel" waterfall feed. The two columns a
 3. Run on an iOS 16+ simulator or device.
 
 ## Demo
-<video src="./screen_recording.mp4" controls width="360">
-Your browser does not support the video tag. You can download it here: screen_recording.mp4
-</video>
+![Demo](./screen_recording.gif)
+
+Full video: [`screen_recording.mp4`](./screen_recording.mp4)
 
 ## Configuration
 Tune parameters in `FilmReelDemoApp/FilmReelDemoApp/FilmReelDemo/ReelConfig.swift`.
